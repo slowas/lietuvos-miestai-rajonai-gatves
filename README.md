@@ -6,7 +6,9 @@ I add to this database because I think most people have encountered such a probl
 
 # Prisidėti / Contribute
 
-Taip pat jai turite naujesne duomenų baze, prašau prisegti :)
+Taip pat jai turite naujesne duomenų baze prašau pasidalinti :)
+
+you have a newer database please share it :)
 
 # Parama / Support
 
